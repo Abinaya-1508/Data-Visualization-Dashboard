@@ -1,4 +1,5 @@
 📊 Data Visualization Dashboard
+
 🔍 Project Overview
 
 This is a full-stack dashboard application built to visualize and analyze data using interactive charts and modern web technologies.
@@ -6,13 +7,19 @@ This is a full-stack dashboard application built to visualize and analyze data u
 The project helps users understand data through dynamic graphs, charts, and insights.
 
 🚀 Features
+
 📈 Interactive dashboards
+
 📊 Multiple chart visualizations
+
 🔄 Real-time or API-based data fetching
+
 🌐 Full-stack architecture (Frontend + Backend)
+
 🎨 Clean and responsive UI
 
 🛠️ Tech Stack
+
 Frontend
 React.js
 Axios
@@ -23,12 +30,15 @@ Express.js
 MongoDB (Mongoose)
 
 ▶️ How to Run
+
 1️⃣ Frontend
+
 cd frontend/dashboard-frontend
 npm install
 npm start
 
 2️⃣ Backend
+
 cd backend
 npm install
 npm start
@@ -45,6 +55,7 @@ Dashboard UI
 <img width="1543" height="925" alt="{84E30D14-57AD-44DE-90E5-909AA8A1AFFB}" src="https://github.com/user-attachments/assets/2e4699ab-5b7b-492f-8ebf-a5a39ddf3abc" />
 <img width="1592" height="608" alt="{7A3A68EA-782E-4D49-8641-D387BD1D5D4C}" src="https://github.com/user-attachments/assets/6356c70b-d9d2-47a9-8163-4e51bf231767" />
 <img width="1499" height="765" alt="{EF8A5ADE-6641-4E9B-8226-01714095ECC2}" src="https://github.com/user-attachments/assets/bfa39f43-7c13-4bc6-b6b5-d2a8cbe4ae26" />
+
 
 Charts View
 
