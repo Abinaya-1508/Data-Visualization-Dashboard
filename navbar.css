@@ -1,0 +1,29 @@
+.top-navbar {
+  height: 72px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding: 0 24px;
+  background: #fff;
+  border-bottom: 1px solid #eef2f6;
+  margin-left: 240px; /* matches sidebar width */
+  box-sizing: border-box;
+}
+
+.app-title { margin:0; font-size:18px; font-weight:700; color:#111827; }
+
+.search input {
+  padding:8px 10px;
+  border-radius:8px;
+  border:1px solid #e6e9f2;
+  width:220px;
+}
+
+.nav-right { display:flex; align-items:center; gap:16px; }
+.profile-btn {
+  background: rgba(99,102,241,0.08);
+  border:none;
+  padding:8px 10px;
+  border-radius:8px;
+  cursor:pointer;
+}
